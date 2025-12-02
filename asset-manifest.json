@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/birthday-surprise/static/css/main.1a3f1c02.css",
+    "main.js": "/birthday-surprise/static/js/main.48492e8e.js",
+    "static/js/453.f94118d1.chunk.js": "/birthday-surprise/static/js/453.f94118d1.chunk.js",
+    "static/media/poem-backgroud.png": "/birthday-surprise/static/media/poem-backgroud.efb5f21e6bd8d4306f75.png",
+    "static/media/crumpled-paper-background.jpg": "/birthday-surprise/static/media/crumpled-paper-background.548d9b30e3398da226de.jpg",
+    "static/media/pic-2.jpg": "/birthday-surprise/static/media/pic-2.0a6d12964d22a59256c8.jpg",
+    "static/media/pic-1.jpg": "/birthday-surprise/static/media/pic-1.266729fe5b77ca6954cb.jpg",
+    "static/media/pic-4.jpg": "/birthday-surprise/static/media/pic-4.7561e0ba4d3a9d26eb05.jpg",
+    "static/media/flower-pic.jpg": "/birthday-surprise/static/media/flower-pic.04d0863cae26c2a70c4d.jpg",
+    "static/media/pic-6.jpg": "/birthday-surprise/static/media/pic-6.c062cce2f88ad35a925b.jpg",
+    "static/media/pic-3.jpg": "/birthday-surprise/static/media/pic-3.5d577d97f6de68cd36bf.jpg",
+    "static/media/pic-7.jpg": "/birthday-surprise/static/media/pic-7.385bd06819a3bfd07e5a.jpg",
+    "static/media/pic-5.jpg": "/birthday-surprise/static/media/pic-5.86f14b84b3f040f5b850.jpg",
+    "static/media/pic-8.jpg": "/birthday-surprise/static/media/pic-8.7c11459f24253533ab3f.jpg",
+    "static/media/nailong-flower.jpg": "/birthday-surprise/static/media/nailong-flower.8161d2d808f143abab40.jpg",
+    "static/media/pic-9.jpg": "/birthday-surprise/static/media/pic-9.fe6e967bef20f91f9045.jpg",
+    "index.html": "/birthday-surprise/index.html",
+    "main.1a3f1c02.css.map": "/birthday-surprise/static/css/main.1a3f1c02.css.map",
+    "main.48492e8e.js.map": "/birthday-surprise/static/js/main.48492e8e.js.map",
+    "453.f94118d1.chunk.js.map": "/birthday-surprise/static/js/453.f94118d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a3f1c02.css",
+    "static/js/main.48492e8e.js"
+  ]
+}
