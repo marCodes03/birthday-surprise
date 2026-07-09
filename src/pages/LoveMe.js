@@ -4,7 +4,7 @@ import "../styles/LoveMe.css";
 import "../App.css";
 
 export default function Surprise() {
-  const [hateClicks, setHateClicks] = useState(0);
+  const [, setHateClicks] = useState(0);
   const [hideHate, setHideHate] = useState(false);
   const [loveText, setLoveText] = useState("Yes, you do!");
   const navigate = useNavigate();
